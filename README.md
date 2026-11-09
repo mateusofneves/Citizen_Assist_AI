@@ -147,10 +147,7 @@ Isso significa que os registros são mantidos somente durante a execução do pr
 
 <br>
 
-**Mateus de Oliveira Fernandes Neves         RM: 572431**
-
-<br>
-
+**Mateus de Oliveira Fernandes Neves         RM: 572431** <br>
 **Nathan Hiroshi Watanabe                    RM: 572806**
 
 <br>
