@@ -145,9 +145,16 @@ Isso significa que os registros são mantidos somente durante a execução do pr
 
 ### Responsáveis envolvidos
 
+<br>
+
 **Mateus de Oliveira Fernandes Neves         RM: 572431**
+
+<br>
+
 **Nathan Hiroshi Watanabe                    RM: 572806**
 
+<br>
+<br>
 
 **Instituição:** FIAP — Faculdade de Informática e Administração Paulista
 
