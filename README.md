@@ -126,7 +126,7 @@ Não é necessário instalar bibliotecas externas.
 1. Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/mateusofneves/Citizen_Assist_AI.git
 ```
 
 2. Acesse a pasta:
