@@ -1,4 +1,5 @@
 from servico import Servico
+from algoritmos import insertion_sort
 from lista_encadeada import ListaEncadeada
 
 # Criando lista encadeada
@@ -55,3 +56,11 @@ print("\nLISTA FINAL:")
 lista.exibir_todos()
 
 print("\nQuantidade de serviços:", lista.tamanho)
+
+print("\nANTES DA ORDENAÇÃO:")
+lista.exibir_todos()
+
+insertion_sort(lista, "id")
+
+print("\nDEPOIS DA ORDENAÇÃO:")
+lista.exibir_todos()
