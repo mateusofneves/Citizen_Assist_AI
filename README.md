@@ -35,6 +35,14 @@ Desenvolver um protótipo que aplique conceitos de estruturas de dados e algorit
 ```text
 CITIZEN_ASSIST_AI/
 │
+└──assets
+│   ├──demonstracao-1
+│   ├──demonstracao-2
+│   ├──demonstracao-3
+│   ├──demonstracao-4
+│   ├──demonstracao-5
+│   └──demonstracao-6
+│
 ├── main.py
 ├── servico.py
 ├── no.py
